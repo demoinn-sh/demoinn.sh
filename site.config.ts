@@ -2,11 +2,11 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'demoinn-3f564c104d3b4c458656361f9ac69e35',
+  rootNotionPageId: 'demoinn-sh-2933339b509040029638ff3fbdae24d0',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: 'demoinn',
 
   // basic site info (required)
   name: 'Website for Demo inn Shanghai',
