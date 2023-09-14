@@ -11,13 +11,13 @@ export default siteConfig({
   // basic site info (required)
   name: 'Website for Demo inn Shanghai',
   domain: 'demoinn.sh',
-  author: 'Minghe',
+  author: '',
 
   // open graph metadata (optional)
   description: 'Demo inn Shanghai is a place to demo your cool idea',
 
   // social usernames (optional)
-  twitter: '_metrue',
+  // twitter: '_metrue',
   github: 'demoinn-sh',
   // linkedin: '2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
